@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.container-form{
+    display: flex;
+}
+
+.container-PesaDol{
+    padding: 1em;
+    display: flex;
+    align-items: center;
+}
+
+.container-DolaPes{
+    padding: 1em;
+    display: flex;
+    align-items: center;
+}
+
+form input{
+    width: 5em;
+    margin: 1em;
+}
